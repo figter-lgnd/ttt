@@ -164,3 +164,4 @@ ALLOW_CONNECTIONS_HANDLER = CommandHandler("allowconnect", allow_connections, al
 dispatcher.add_handler(CONNECT_CHAT_HANDLER)
 dispatcher.add_handler(DISCONNECT_CHAT_HANDLER)
 dispatcher.add_handler(ALLOW_CONNECTIONS_HANDLER)
+
